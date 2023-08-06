@@ -1,0 +1,39 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: center;
+}
+h1{
+  font-size:15px;
+  font-weight: 700;
+}
+
+p{
+  font-size: 15px;
+  font-weight: 400;
+  color:hsl(212, 45%, 89%);
+}
+
+
+.container {
+  max-width: 200px; /* Set the maximum width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 10px; /* Add padding to create spacing between 
+  container content and edges */
+  margin-top: 25%;
+  background-color: #f5f5f5; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a 3D effect */
+  border-radius: 10px; /* Add rounded corners to the container */
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+  border-radius: 10px;
+}
+
+.attribution{
+  margin-top: 25%;
+}
